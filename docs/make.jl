@@ -1,7 +1,6 @@
 using Documenter, BBI
 
 makedocs(
-    # format = :html,
     format = Documenter.HTML(
         edit_branch = "develop"
     ),
@@ -13,8 +12,5 @@ makedocs(
 )
 deploydocs(
     repo = "github.com/BioJulia/BBI.jl.git",
-    target = "build",
-    deps = nothing,
-    make = nothing,
     devbranch = "develop"
 )
