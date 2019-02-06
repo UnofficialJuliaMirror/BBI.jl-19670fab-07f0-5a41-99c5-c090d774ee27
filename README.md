@@ -4,7 +4,7 @@
 [![MIT license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/BioJulia/BBI.jl/blob/master/LICENSE.md)
 [![Stable documentation](https://img.shields.io/badge/docs-stable-blue.svg)](https://biojulia.github.io/BBI.jl/stable)
 [![Latest documentation](https://img.shields.io/badge/docs-dev-blue.svg)](https://biojulia.github.io/BBI.jl/latest/)
-[![Chat on Gitter](https://img.shields.io/gitter/room/BioJulia/General.svg)](https://gitter.im/BioJulia/General)
+[![Chat](https://img.shields.io/gitter/room/BioJulia/General.svg)](https://gitter.im/BioJulia/BBI.jl)
 
 ## Description
 BBI handles the shared parts of [bigWig.jl](https://github.com/BioJulia/bigWig.jl) and [bigBed.jl](https://github.com/BioJulia/bigBed.jl).
